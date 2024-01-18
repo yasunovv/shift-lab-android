@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SHIFT app</string>
+    <string name="hint_len_first_name">Длина имени должна быть больше 2 символов</string>
+    <string name="hint_len_first_symb">В имени должны отсутствовать цифры</string>
+    <string name="hint_len_second_name">Длина фамилии должна быть больше 2 символов</string>
+    <string name="hint_len_second_symb">В фамилии должны отсутствовать цифры</string>
+    <string name="hint_date_age">Вы должны быть старше 18 лет</string>
+    <string name="hint_password_len">Длина должна быть больше 6 символов</string>
+    <string name="hint_password_symb_num">Должны быть цифры</string>
+    <string name="hint_password_symb_lat">Допускается только латиница</string>
+    <string name="hint_password_symb_symb">Должен присутствовать хотя бы один символ</string>
+    <string name="hint_password_symb_case">Символы должны быть в разных регистрах</string>
+    <string name="hint_password_symb_white_space">Не должно быть пробелов</string>
+    <string name="hint_password_symb_repeat">Пароли должны совпадать</string>
+</resources>
